@@ -29,4 +29,5 @@ The Meta Achievements Project is a comprehensive ecosystem designed to restore a
 
 - **Host Organization**: [Not a Glitch Studios](https://www.notaglitch.net/)
 - **Lead Developer on GUI & App**: [TheAndromedaCat](https://www.andromedacat.net/) [ᴳᴴ](https://github.com/TheAndromedaCat)
-- **API Backend & Original Website Development**: [DenHBR](https://meta-achievements.onrender.com/) [ᴳᴴ](https://github.com/orgs/MetaAchievements/people/DenHBR)
+- **API Backend & Original Website Development**: [DenHBR](https://meta-achievements.onrender.com/) [ᴳᴴ](https://github.com/DenHBR)
+- **Help with database work**: [QuestStoreDB](https://queststoredb.com/)
