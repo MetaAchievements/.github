@@ -24,6 +24,7 @@ The Meta Achievements Project is a comprehensive ecosystem designed to restore a
 - 🌐 **Production Web App**: [meta-achievements.org](https://meta-achievements.org)
 - 🧪 **Nightly Staging App**: [nightly.meta-achievements.org](https://nightly.meta-achievements.org)
 - 💬 **Community Forum**: [forum.meta-achievements.org](https://forum.meta-achievements.org)
+- 🎮 **Community Discord**: [VR Achievement Hunters](https://go.meta-achievements.org/discord)
 - 📄 **XML Test Suite**: [xml.meta-achievements.org](https://xml.meta-achievements.org)
 - 📈 **Status Page**: [meta-achievements.onlineornot.com](https://meta-achievements.onlineornot.com/)
 
