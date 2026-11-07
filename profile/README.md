@@ -12,6 +12,8 @@ The Meta Achievements Project is a comprehensive ecosystem designed to restore a
 
 ### Ecosystem Services & Mobile Apps
 - 💻 **Web Portal & Server**: [MetaAchievementsHTML](https://github.com/MetaAchievements/MetaAchievementsHTML) ([meta-achievements.org](https://meta-achievements.org))
+- 💬 **Community Forum**: [forum.meta-achievements.org](https://forum.meta-achievements.org)
+- 🧪 **Nightly Staging Portal**: [nightly.meta-achievements.org](https://nightly.meta-achievements.org)
 - 📱 **Android App**: [MetaAchievementsTrackerAndroid](https://github.com/MetaAchievements/MetaAchievementsTrackerAndroid)
 - 📱 **iOS App**: [MetaAchievementsTrackerIOS](https://github.com/MetaAchievements/MetaAchievementsTrackerIOS)
 - ⚙️ **Definitions Scraper**: [Achievement-Definitions-Grabber](https://github.com/MetaAchievements/Achievement-Definitions-Grabber)
@@ -19,7 +21,9 @@ The Meta Achievements Project is a comprehensive ecosystem designed to restore a
 ---
 
 ## 📊 Organization Links & Status
-- 🌐 **Live Web App**: [meta-achievements.org](https://meta-achievements.org)
+- 🌐 **Production Web App**: [meta-achievements.org](https://meta-achievements.org)
+- 🧪 **Nightly Staging App**: [nightly.meta-achievements.org](https://nightly.meta-achievements.org)
+- 💬 **Community Forum**: [forum.meta-achievements.org](https://forum.meta-achievements.org)
 - 📄 **XML Test Suite**: [xml.meta-achievements.org](https://xml.meta-achievements.org)
 - 📈 **Status Page**: [meta-achievements.onlineornot.com](https://meta-achievements.onlineornot.com/)
 
